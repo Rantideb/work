@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Rantideb Howlader',
     'I design and code things on the web',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:connect@ranti.dev">connect@ranti.dev</a>',
-    '<a target="_blank" href="https://twitter.com/r4ntide3">twitter.com/r4ntide3r</a><br><a target="_blank" href="https://github.com/Rantideb">github.com/Rantideb</a>',
+    '<a target="_blank" href="https://twitter.com/r4ntide3">twitter.com/r4ntide3</a><br><a target="_blank" href="https://github.com/Rantideb">github.com/Rantideb</a>',
     getCurrentTime(),
     '👀 Rantideb'
   ]
